@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .ticket {
+    width: 300px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+  .match-details {
+    margin-top: 20px;
+  }
+
+  .team {
+    font-weight: bold;
+  }
+
+  .venue, .date-time {
+    margin-top: 10px;
+    color: #191818;
+    font-size: large;
+    font-weight:500px;
+  }
+
+  .ticket-footer {
+    margin-top: 20px;
+
+  }
+
+ 
